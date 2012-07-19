@@ -1,3 +1,7 @@
 Scripts are in scripts/
 Music is downloaded into bin/
 Downloads/ is old, not sure if the stuff in there works
+
+in scripts/
+	all.bash depends on fetch.bash
+	chubbybeavers.bash is a special script that goes to their server pulls literally every song ever posted. WORRDDD.
